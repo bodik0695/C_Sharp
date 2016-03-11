@@ -117,7 +117,7 @@ namespace Base
                         string regexPosition = @"^[a-zA-Zа-яА-Я'][a-zA-Zа-яА-Я-' ]+[a-zA-Zа-яА-Я']";
                         string regexAge = @"^\d{2}";
                         string regexMobileNumber = @"^\([0-9]{3}\)\s[0-9]{3}-[0-9]{2}-[0-9]{2}";
-                        string regexEmail = @"^[a-zA-Z']+@+gmail.com";
+                        string regexEmail = @"^[a-zA-Z']+[0-9']+@+gmail.com";
                         string name = "";
                         string tempName = Console.ReadLine();
                         if (Regex.IsMatch(tempName, regexInitials))
@@ -381,6 +381,7 @@ namespace Base
             Console.WriteLine("\tПросмотреть все записи о сотрудниках: view_all");
             Console.WriteLine("\tПросмотреть конкретную запись о сотрудниках: view_spec");
             Console.WriteLine("\tФормат ввода номера (ххх) ххх-хх-хх");
+            Console.WriteLine("\tЗакрыть программу: exit");
             Console.WriteLine("Нажмите любую клавишу для продолжения: ");
             Console.ReadKey();
         }
