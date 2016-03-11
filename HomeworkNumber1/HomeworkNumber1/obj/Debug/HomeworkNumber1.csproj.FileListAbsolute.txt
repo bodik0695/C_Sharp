@@ -1,0 +1,6 @@
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\bin\Debug\HomeworkNumber1.exe.config
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\bin\Debug\HomeworkNumber1.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\bin\Debug\HomeworkNumber1.pdb
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\obj\Debug\HomeworkNumber1.csprojResolveAssemblyReference.cache
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\obj\Debug\HomeworkNumber1.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\HomeworkNumber1\HomeworkNumber1\obj\Debug\HomeworkNumber1.pdb
