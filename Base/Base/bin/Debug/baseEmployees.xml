@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Вася</Name>
+    <Surname>Васильев</Surname>
+    <Patronymic>Васильевич</Patronymic>
+    <Age>31</Age>
+    <Position>биотехнолог</Position>
+    <MobilePhoneNumber>(063) 343-43-54</MobilePhoneNumber>
+    <Email>vasya@gmail.com</Email>
+  </Employee>
+</ArrayOfEmployee>

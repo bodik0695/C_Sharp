@@ -1,0 +1,6 @@
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\bin\Debug\BaseEmployees.exe.config
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\obj\Debug\BaseEmployees.csprojResolveAssemblyReference.cache
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\bin\Debug\BaseEmployees.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\bin\Debug\BaseEmployees.pdb
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\obj\Debug\BaseEmployees.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\BaseEmployees\BaseEmployees\obj\Debug\BaseEmployees.pdb

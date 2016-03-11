@@ -1,0 +1,6 @@
+F:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\bin\Debug\Base.exe.config
+f:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\bin\Debug\Base.exe
+f:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\bin\Debug\Base.pdb
+f:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+f:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\obj\Debug\Base.exe
+f:\курсы\Основы языка C# и платформы .Net\projects\Base\Base\obj\Debug\Base.pdb
