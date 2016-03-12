@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReflectionAttributes
 {
+    [AttributeUsage(AttributeTargets.Property)]
     public class ColorAttributes : System.Attribute
     {
         public ConsoleColor Color { get; set; }
