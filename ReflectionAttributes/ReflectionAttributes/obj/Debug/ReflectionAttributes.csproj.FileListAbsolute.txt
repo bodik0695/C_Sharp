@@ -1,0 +1,6 @@
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\bin\Debug\ReflectionAttributes.exe.config
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\bin\Debug\ReflectionAttributes.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\bin\Debug\ReflectionAttributes.pdb
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\obj\Debug\ReflectionAttributes.csprojResolveAssemblyReference.cache
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\obj\Debug\ReflectionAttributes.exe
+F:\курсы\Основы языка C# и платформы .Net\projects\ReflectionAttributes\ReflectionAttributes\obj\Debug\ReflectionAttributes.pdb
