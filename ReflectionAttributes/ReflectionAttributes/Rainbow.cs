@@ -18,14 +18,14 @@ namespace ReflectionAttributes
         public string Yellow { get; set; }
         [ColorAttributes(ConsoleColor.Green)]
         public string Green { get; set; }
-        [ColorAttributes(ConsoleColor.Blue)]
-        public string Blue { get; set; }
         [ColorAttributes(ConsoleColor.Cyan)]
         public string Cyan { get; set; }
+        [ColorAttributes(ConsoleColor.Blue)]
+        public string Blue { get; set; }
         [ColorAttributes(ConsoleColor.DarkMagenta)]
         public string Purple { get; set; }
 
-        public Rainbow(string red, string orange, string yellow, string green, string blue, string cyan, string purpule)
+        public Rainbow(string red, string orange, string yellow, string green, string cyan, string blue, string purpule)
         {
             RainbowWord = "Радуга";
             Red = red;
